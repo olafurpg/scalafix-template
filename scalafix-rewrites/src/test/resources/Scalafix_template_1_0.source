@@ -1,0 +1,6 @@
+rewrites = ["scala:olafurpg.scalafix_template.scalafix.Scalafix_template_1_0"]
+<<< ONLY basic
+object a
+>>>
+object a
+
